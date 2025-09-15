@@ -1,0 +1,5 @@
+# PyCharm / JetBrains IDE
+.idea/
+
+# macOS sistem dosyaları
+.DS_Store
